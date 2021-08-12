@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thasegawa203
 - 👀 I’m interested in God's Ultimate Truth in His Word, His Gospel, Coding, Motorcycles
-- 🌱 I’m currently learning Python, GitHub, Psalms, How to get my bike back up and running,
+- 🌱 I’m currently learning Python, GitHub, Boomi, Psalms, how to get my bike back up and running,
 - 💞️ I’m looking to collaborate on Boomi, Python, Web Services
 - 📫 How to reach me ... maybe later
 
